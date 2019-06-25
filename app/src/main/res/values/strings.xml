@@ -4,6 +4,11 @@
 
     <string name="true_button">True</string>
     <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="hint_button">Hint</string>
+    <string name="score_text">Score</string>
+
+    <string name="score_value"></string>
 
     <string name="question_1">Does "Inggih" mean "Yes" in Balinese?</string>
     <string name="question_2">Does "Sing" mean "No" In Balinese?</string>
@@ -13,4 +18,14 @@
     <string name="question_6">Bali is a part of Indonesia</string>
     <string name="question_7">The Capital of Bali is Mas</string>
     <string name="question_8">The Capital of Bali is Denpasar</string>
+
+    <string name="hint_1">Yes</string>
+    <string name="hint_2">Yes</string>
+    <string name="hint_3">Yes</string>
+    <string name="hint_4">Yes</string>
+    <string name="hint_5">No</string>
+    <string name="hint_6">Yes</string>
+    <string name="hint_7">No</string>
+    <string name="hint_8">Yes</string>
+
 </resources>
